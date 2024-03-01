@@ -1,0 +1,14 @@
+console.log("Pasos para ir al supermercado");
+console.log("1.buscar las llaves del auto");
+console.log("2.salir de casa");
+console.log("3.subir al auto ");
+console.log("4.arrancarlo ");
+console.log("5.apretar el embreague");
+console.log("6.poner primer cambio");
+console.log("7.largar embreague despacio");
+console.log("8.acelerar y cuando llegue a 10 km pasar a segunda");
+console.log("9.manejar 10 cuadras hasta el supermercado");
+console.log("10.estacionar");
+console.log("11.bajar del vehiculo");
+console.log("12.cerrarlo");
+console.log("13.entrar al supermercado");
